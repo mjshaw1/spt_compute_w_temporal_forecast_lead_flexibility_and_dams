@@ -1,0 +1,1 @@
+{"crs": {"type": "name", "properties": {"name": "EPSG:4326"}}, "type": "FeatureCollection", "features": [{"geometry": {"type": "Point", "coordinates": [-86.30411332474645, 38.621052578327394]}, "type": "Feature", "properties": {"peak_date": "2008-06-01", "peak": 0.13, "rivid": 18445186}}]}

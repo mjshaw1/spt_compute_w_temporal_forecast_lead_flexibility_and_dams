@@ -1,0 +1,11 @@
+numpy
+netCDF4
+pandas
+RAPIDpy
+tethys_dataset_services
+xarray
+
+[tests]
+coveralls
+pytest
+pytest-cov

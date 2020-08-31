@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: spt-compute
+Version: 2.0.1
+Summary: Computational framework for the Streamflow Prediciton Tool
+Home-page: https://github.com/erdc-cm/spt_compute
+Author: Alan Dee Snow
+Author-email: alan.d.snow@usace.army.mil
+License: BSD 3-Clause
+Description: Computational framework to ingest ECMWF ensemble runoff forcasts  or otherLand Surface Model forecasts; generate input for and run the RAPID (rapid-hub.org) program using HTCondor or Python's Multiprocessing; and upload to  CKAN in order to be used by the Streamflow Prediction Tool (SPT). There is also an experimental option to use the AutoRoute program for flood inundation mapping.
+Keywords: ECMWF,WRF,RAPID,Flood Prediction,Streamflow Prediction Tool
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Provides-Extra: tests
